@@ -1,0 +1,92 @@
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book       
+4. Return Book      
+5. Exit
+Enter choice: 1
+
+--- Book List ---
+1 | Java Programming by James Gosling [Available]
+2 | Clean Code by Robert C. Martin [Available]
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 1
+
+--- Book List ---
+1 | Java Programming by James Gosling [Available]
+2 | Clean Code by Robert C. Martin [Available]
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 2
+
+--- User List ---
+101 | Neha | Borrowed: 0
+102 | Amit | Borrowed: 0
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 3
+Enter Book ID: 1
+Enter User ID: 101
+Book issued successfully to Neha
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 2
+
+--- User List ---
+101 | Neha | Borrowed: 1
+102 | Amit | Borrowed: 0
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 4
+Enter Book ID: 2
+Enter User ID: 102
+This book was not issued.
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 2
+
+--- User List ---
+101 | Neha | Borrowed: 1
+102 | Amit | Borrowed: 0
+
+===== Library Management System =====
+1. Display all Books
+2. Display all Users
+3. Issue Book
+4. Return Book
+5. Exit
+Enter choice: 5
+Thank you for using Library System!
+PS C:\Users\hp\OneDrive\Desktop\LibrarySystem> 
